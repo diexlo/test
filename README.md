@@ -6,7 +6,7 @@ Este README comenta brevemente el contenido del repositorio
 
 * Repositorio en el cual se registran los diagramas solicitados
 * Version 1.0
-* [Repo](https://bitbucket.org/dxl17042006/test)
+* [Repo]([https://github.com/diexlo/test])
 
 ### **Contenido** ###
 
